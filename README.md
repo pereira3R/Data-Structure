@@ -1,5 +1,9 @@
 # Data-Structure
 
+## Used Tecnology 
+
+- C++
+
 ## Methods Structure
 
 - Árvore de expressão
